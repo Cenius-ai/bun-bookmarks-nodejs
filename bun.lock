@@ -1,0 +1,21 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "shelf",
+      "dependencies": {
+        "@fontsource/comfortaa": "^5.3.0",
+        "@fontsource/karla": "^5.3.0",
+        "hono": "^4.6.0",
+      },
+    },
+  },
+  "packages": {
+    "@fontsource/comfortaa": ["@fontsource/comfortaa@5.3.0", "", {}, "sha512-ab4DERH0q6ko8QCpEZzOV9ebK39LgQ2oM91AkLNqu0VIxxwT0nV2D3sOuI7iLirWWq4IMooaIN6/2llxrDN2JA=="],
+
+    "@fontsource/karla": ["@fontsource/karla@5.3.0", "", {}, "sha512-zHBkxMumwFE+K4RgHQAv2xH0O2lAX9y4zPun5JEFZyNQQclZ5Oz/XvByE3CB5+rnxKEV5BXlZShIEfz0VILDmQ=="],
+
+    "hono": ["hono@4.12.30", "", {}, "sha512-emn+JoJjrN9YTpRDS5it/UI2SO9BAE37T6I3d963RxcZ81G9A4pr2SZTEiiaiKbzx+NKRg5BZ89fCL7gCJCUog=="],
+  }
+}
