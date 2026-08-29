@@ -1,0 +1,14 @@
+{
+  "name": "shelf",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run index.ts",
+    "start": "bun run index.ts"
+  },
+  "dependencies": {
+    "@fontsource/comfortaa": "^5.3.0",
+    "@fontsource/karla": "^5.3.0",
+    "hono": "^4.6.0"
+  }
+}
