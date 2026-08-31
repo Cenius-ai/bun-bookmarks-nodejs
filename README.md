@@ -65,7 +65,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Open the repo and you'll find a complete Node.js application (22 files). Top-level layout: `data/`. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
+Open the repo and you'll find a complete Node.js application (11 files). Top-level layout: `data/`. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
